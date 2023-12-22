@@ -1,0 +1,9 @@
+"./main.obj"
+"./startup_msp432p401r_ccs.obj"
+"./system_msp432p401r.obj"
+"./inc/clock.obj"
+"./tasks/task1.obj"
+"./tasks/task2.obj"
+"./tasks/task3.obj"
+"../msp432p401r.cmd"
+-llibc.a
